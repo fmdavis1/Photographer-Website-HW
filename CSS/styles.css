@@ -1,0 +1,124 @@
+* {
+    box-sizing: border-box;
+    /* color:#54474b; */
+    /* color: #4c322f; */
+    font-weight: bolder;
+    margin-top:0;
+}
+
+h1{
+    /* text-align:left; */
+    text-indent:4.5em ;
+}
+body{
+    background-color: #7ba7a3;
+    margin:0;
+}
+.left{
+    background-color: #548e8d;
+    /* height:100%; */
+    margin-top: 0;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 100%;
+    text-align: left;
+}
+.right{
+    float:right;
+    padding-top: 60px;
+    background-color: #88697A
+    
+}
+.Welcome{
+    color: #4c322f;
+}
+
+.nav1 li{
+    list-style: none;
+    display: inline-block;
+    text-indent: 20px;
+    padding-right: 20px;
+    background-color: #4c322f;
+    border: #4c322f 1px solid;
+    
+}
+
+
+
+.nav3 li{
+    list-style: none;
+    display: inline;
+    padding-right: 15px;
+    background-color: #88697A;;
+    border: #4c322f 1px solid;
+} 
+.nav2 li{
+    display: inline;
+    
+}
+ .opendoor{ 
+     text-indent: 5em;
+     font-size: 20px;
+     color: #4c322f;
+ }   
+ hr{
+     color:black;
+     
+
+ }
+ h1#contact {
+     padding-left: 520px;
+     padding-bottom:20px;
+    background-color: #4c322f;
+    color:#88697A;
+    
+    
+ }
+ .contactlist li{
+     list-style: none;
+     display:inline-block;
+     padding-right:20px;
+     padding-top: 10px;
+ }
+
+ #aboutus{
+    padding-left: 525px;
+    padding-bottom:20px;
+   background-color: #4c322f;
+   color:#88697A;
+ }
+ #beauty{
+     padding-top: 20px;
+     padding-left:500px;
+     font-size:20px;
+     color: #4c322f;
+     font-weight: bolder;
+     font-style: italic;
+ }
+
+#photo2{
+    padding-top:50px;
+    padding-left: 470px;
+}
+
+#gallery{
+    padding-left: 530px;
+    padding-bottom:20px;
+   background-color: #4c322f;
+   color:#88697A;
+}
+
+.subtitle{
+    padding-left: 400px;
+    padding-top: 10px;
+    color:#4c322f;
+}
+    
+li a{;
+    color:black
+}
+   
+
+
+
+
